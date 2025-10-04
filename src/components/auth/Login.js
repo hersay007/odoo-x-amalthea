@@ -46,6 +46,10 @@ const Login = () => {
     <div className="auth-container">
       <div className="auth-form">
         <div className="auth-header">
+          <div className="auth-branding">
+            <h1 className="auth-app-name">Xpense Tracker</h1>
+            <p className="auth-app-tagline">Smart Expense Management</p>
+          </div>
           <h2 className="auth-title">
             Sign in to your account
           </h2>
